@@ -3,7 +3,7 @@
  * @file main.cpp
  * @brief Embedded Obstacle Detection System using IR Sensor
  * @author Utkarsh_Singh_Routela [Paras-79]
- * @date 19/02/2026
+ * @date 19/02/2026.
  *
  * @details
  * Reads digital input from IR sensor
